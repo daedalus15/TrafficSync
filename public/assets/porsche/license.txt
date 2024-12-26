@@ -1,0 +1,11 @@
+Model Information:
+* title:	2015 Porsche Boxster GTS (718)
+* source:	https://sketchfab.com/3d-models/2015-porsche-boxster-gts-718-706606b037ff458ea229042ea52cd1bd
+* author:	Ddiaz Design (https://sketchfab.com/ddiaz-design)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2015 Porsche Boxster GTS (718)" (https://sketchfab.com/3d-models/2015-porsche-boxster-gts-718-706606b037ff458ea229042ea52cd1bd) by Ddiaz Design (https://sketchfab.com/ddiaz-design) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Porsche Boxster GTS
+* source:	https://sketchfab.com/3d-models/porsche-boxster-gts-95166a34d8114731a5cc3431cdf374be
+* author:	BadKarma™ (https://sketchfab.com/890244234)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Porsche Boxster GTS" (https://sketchfab.com/3d-models/porsche-boxster-gts-95166a34d8114731a5cc3431cdf374be) by BadKarma™ (https://sketchfab.com/890244234) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

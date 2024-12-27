@@ -1,4 +1,4 @@
-# Traffic Simulation with Real-Time Traffic Density Tracking and Congestion Control
+# TrafficSync: Real-Time 3D Traffic Simulation with Adaptive Congestion Control
 
 ![Traffic Simulation Project Banner](./public/assets/ARVR-Project.png)
 
@@ -30,11 +30,11 @@ The project calculates traffic density using real-time Google Maps data, accesse
 To run the project on your local machine:
 1. Clone the repository:  
 ```bash
-   git clone https://github.com/suchirmv-1524/Traffic-Simulation-and-Congestion-Control
+   git clone https://github.com/daedalus15/TrafficSync
 ```
 2. Navigate to the project directory:
  ```bash
- cd Traffic-Simulation-and-Congestion-Control
+ cd TrafficSync
 ```
 3. Install the dependencies:
 ```bash
@@ -67,9 +67,9 @@ Traffic density is set to high by default, and the scene simulates the maximum n
 ---
 
 ## Authors
+- Suchir M Velpanur
+Github : @daedalus15
 - Srivishnu Gade
 GitHub: @SrivishnuGade
-- Suchir M Velpanur
-Github : @suchirmv-1524
 
 Enjoy simulating and optimizing traffic flow in a dynamic 3D environment!

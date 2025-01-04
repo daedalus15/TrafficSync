@@ -17,7 +17,7 @@ Here, the project's adaptive rendering feature is shown, where traffic density i
 ---
 
 ### Additional Details
-- **Online Mode**: Simulates traffic density using real-time data. Visit the Vercel deployment link provided in the repository.
-- **Offline Mode**: Loads a high-density traffic simulation by default for local testing.
+- **Online Mode**: Simulates traffic density using real-time data rendered from Google Maps. Due to API restrictions, this mode works only on localhost and is not functional on Vercel.
+- **Offline Mode**: Simulates a high-density traffic scenario by default without relying on Google Maps data. This mode is used for deployment on Vercel.
 
 For more details on setting up and running the project, refer to the main repository documentation. 
